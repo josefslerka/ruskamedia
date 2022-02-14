@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2022-02-14">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="zona.media" label="zona.media">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-197.02734" y="298.7274"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="meduza.io" label="meduza.io">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="246.81586" y="189.05681"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="novayagazeta.ru" label="novayagazeta.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-209.62328" y="72.985115"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="theins.ru" label="theins.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="73.30124" y="244.11938"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="svoboda.org" label="svoboda.org">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="483.20395" y="127.17234"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="znak.com" label="znak.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-64.682625" y="410.67334"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="newtimes.ru" label="newtimes.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="742.0615" y="65.069046"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="snob.ru" label="snob.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="448.92526" y="8.941232"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="newtimes.run" label="newtimes.run">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-459.5631" y="9.5585575"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="echo.msk.ru" label="echo.msk.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="105.42212" y="9.562388"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="rbc.ru" label="rbc.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-97.83903" y="-157.51558"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="tjournal.ru" label="tjournal.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="171.72987" y="335.17474"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="kasparov.ru" label="kasparov.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-259.3217" y="196.1107"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="graniru.org" label="graniru.org">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-763.91003" y="71.09597"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="ehorussia.com" label="ehorussia.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-429.27234" y="135.19876"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="ej.ru" label="ej.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.3061886" y="141.53226"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="golosameriki.com" label="golosameriki.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="500.03894" y="262.76282"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="mk.ru" label="mk.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="386.7265" y="-102.826065"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="lenta.ru" label="lenta.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="60.79001" y="-213.40358"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="ria.ru" label="ria.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="265.1341" y="-243.65662"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="gazeta.ru" label="gazeta.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="586.829" y="-252.23535"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="tass.ru" label="tass.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="230.7516" y="-366.37134"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="kp.ru" label="kp.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="539.6624" y="-163.78008"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="russian.rt.com" label="russian.rt.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-34.993626" y="-421.06525"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="lentainform.com" label="lentainform.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="344.53958" y="-475.93924"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="iz.ru" label="iz.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="390.79636" y="-420.0928"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="kommersant.ru" label="kommersant.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-433.01434" y="-186.71571"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="rg.ru" label="rg.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="358.38928" y="-308.18555"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="aif.ru" label="aif.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="377.75787" y="-186.65521"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="ng.ru" label="ng.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-26.202585" y="-101.964935"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="svpressa.ru" label="svpressa.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-280.8608" y="-47.050175"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="rosbalt.ru" label="rosbalt.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="208.41437" y="-46.47773"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="spektr.press" label="spektr.press">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-503.91183" y="-122.72539"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="vedomosti.ru" label="vedomosti.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-280.33322" y="-242.40253"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="pravda.ru" label="pravda.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="50.455376" y="-305.6257"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="vz.ru" label="vz.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-139.60085" y="-360.57217"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="inosmi.ru" label="inosmi.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-368.34467" y="-361.7416"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="tvrain.ru" label="tvrain.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="571.3631" y="-46.702858"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="vesti.ru" label="vesti.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="177.0417" y="-157.89981"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
+      </node>
+      <node id="currenttime.tv" label="currenttime.tv">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="277.4929" y="66.11449"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="republic.ru" label="republic.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-749.4321" y="-55.42717"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="ovayagazeta.ru" label="ovayagazeta.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-698.4835" y="236.8798"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="rusmonitor.com" label="rusmonitor.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-315.60843" y="354.02972"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+      <node id="obozrevatel.com" label="obozrevatel.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-539.6128" y="410.51108"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="zona.media" target="meduza.io"></edge>
+      <edge id="1" source="zona.media" target="novayagazeta.ru"></edge>
+      <edge id="2" source="zona.media" target="theins.ru"></edge>
+      <edge id="4" source="theins.ru" target="novayagazeta.ru"></edge>
+      <edge id="5" source="theins.ru" target="meduza.io"></edge>
+      <edge id="6" source="theins.ru" target="svoboda.org"></edge>
+      <edge id="7" source="theins.ru" target="znak.com"></edge>
+      <edge id="8" source="svoboda.org" target="svoboda.org"></edge>
+      <edge id="9" source="newtimes.ru" target="svoboda.org"></edge>
+      <edge id="10" source="newtimes.ru" target="snob.ru"></edge>
+      <edge id="11" source="newtimes.run" target="novayagazeta.ru"></edge>
+      <edge id="12" source="novayagazeta.ru" target="echo.msk.ru"></edge>
+      <edge id="13" source="novayagazeta.ru" target="meduza.io"></edge>
+      <edge id="14" source="novayagazeta.ru" target="svoboda.org"></edge>
+      <edge id="15" source="novayagazeta.ru" target="rbc.ru"></edge>
+      <edge id="16" source="meduza.io" target="novayagazeta.ru"></edge>
+      <edge id="17" source="meduza.io" target="echo.msk.ru"></edge>
+      <edge id="18" source="meduza.io" target="tjournal.ru"></edge>
+      <edge id="19" source="kasparov.ru" target="echo.msk.ru"></edge>
+      <edge id="20" source="kasparov.ru" target="svoboda.org"></edge>
+      <edge id="21" source="kasparov.ru" target="novayagazeta.ru"></edge>
+      <edge id="22" source="kasparov.ru" target="graniru.org"></edge>
+      <edge id="23" source="kasparov.ru" target="ehorussia.com"></edge>
+      <edge id="24" source="graniru.org" target="novayagazeta.ru"></edge>
+      <edge id="25" source="graniru.org" target="kasparov.ru"></edge>
+      <edge id="26" source="graniru.org" target="ej.ru"></edge>
+      <edge id="27" source="graniru.org" target="echo.msk.ru"></edge>
+      <edge id="28" source="graniru.org" target="svoboda.org"></edge>
+      <edge id="29" source="ej.ru" target="graniru.org"></edge>
+      <edge id="30" source="ej.ru" target="kasparov.ru"></edge>
+      <edge id="31" source="ej.ru" target="novayagazeta.ru"></edge>
+      <edge id="32" source="svoboda.org" target="echo.msk.ru"></edge>
+      <edge id="33" source="svoboda.org" target="novayagazeta.ru"></edge>
+      <edge id="35" source="svoboda.org" target="meduza.io"></edge>
+      <edge id="36" source="svoboda.org" target="golosameriki.com"></edge>
+      <edge id="37" source="echo.msk.ru" target="novayagazeta.ru"></edge>
+      <edge id="38" source="echo.msk.ru" target="svoboda.org"></edge>
+      <edge id="39" source="echo.msk.ru" target="mk.ru"></edge>
+      <edge id="40" source="echo.msk.ru" target="lenta.ru"></edge>
+      <edge id="41" source="rbc.ru" target="lenta.ru"></edge>
+      <edge id="42" source="rbc.ru" target="ria.ru"></edge>
+      <edge id="43" source="rbc.ru" target="gazeta.ru"></edge>
+      <edge id="44" source="rbc.ru" target="tass.ru"></edge>
+      <edge id="45" source="mk.ru" target="ria.ru"></edge>
+      <edge id="46" source="mk.ru" target="lenta.ru"></edge>
+      <edge id="47" source="mk.ru" target="gazeta.ru"></edge>
+      <edge id="48" source="mk.ru" target="kp.ru"></edge>
+      <edge id="49" source="lenta.ru" target="ria.ru"></edge>
+      <edge id="50" source="lenta.ru" target="gazeta.ru"></edge>
+      <edge id="51" source="lenta.ru" target="rbc.ru"></edge>
+      <edge id="52" source="lenta.ru" target="russian.rt.com"></edge>
+      <edge id="53" source="ria.ru" target="lenta.ru"></edge>
+      <edge id="54" source="ria.ru" target="lentainform.com"></edge>
+      <edge id="55" source="ria.ru" target="russian.rt.com"></edge>
+      <edge id="56" source="ria.ru" target="gazeta.ru"></edge>
+      <edge id="57" source="gazeta.ru" target="lenta.ru" weight="2.0"></edge>
+      <edge id="58" source="gazeta.ru" target="ria.ru" weight="2.0"></edge>
+      <edge id="59" source="gazeta.ru" target="mk.ru" weight="2.0"></edge>
+      <edge id="60" source="gazeta.ru" target="rbc.ru" weight="2.0"></edge>
+      <edge id="61" source="kp.ru" target="ria.ru"></edge>
+      <edge id="62" source="kp.ru" target="mk.ru"></edge>
+      <edge id="63" source="kp.ru" target="lenta.ru"></edge>
+      <edge id="64" source="kp.ru" target="gazeta.ru"></edge>
+      <edge id="65" source="russian.rt.com" target="ria.ru"></edge>
+      <edge id="66" source="russian.rt.com" target="lenta.ru"></edge>
+      <edge id="67" source="russian.rt.com" target="iz.ru"></edge>
+      <edge id="68" source="russian.rt.com" target="tass.ru"></edge>
+      <edge id="69" source="russian.rt.com" target="gazeta.ru"></edge>
+      <edge id="70" source="tass.ru" target="ria.ru"></edge>
+      <edge id="71" source="tass.ru" target="lenta.ru"></edge>
+      <edge id="72" source="tass.ru" target="rbc.ru"></edge>
+      <edge id="73" source="tass.ru" target="gazeta.ru"></edge>
+      <edge id="74" source="tass.ru" target="russian.rt.com"></edge>
+      <edge id="75" source="iz.ru" target="ria.ru"></edge>
+      <edge id="76" source="iz.ru" target="lenta.ru"></edge>
+      <edge id="77" source="iz.ru" target="russian.rt.com"></edge>
+      <edge id="78" source="iz.ru" target="gazeta.ru"></edge>
+      <edge id="79" source="iz.ru" target="tass.ru"></edge>
+      <edge id="80" source="kommersant.ru" target="ria.ru"></edge>
+      <edge id="81" source="kommersant.ru" target="lenta.ru"></edge>
+      <edge id="82" source="kommersant.ru" target="gazeta.ru"></edge>
+      <edge id="83" source="rg.ru" target="ria.ru"></edge>
+      <edge id="84" source="rg.ru" target="lenta.ru"></edge>
+      <edge id="85" source="rg.ru" target="iz.ru"></edge>
+      <edge id="86" source="rg.ru" target="tass.ru"></edge>
+      <edge id="87" source="rg.ru" target="gazeta.ru"></edge>
+      <edge id="88" source="aif.ru" target="ria.ru"></edge>
+      <edge id="89" source="aif.ru" target="lenta.ru"></edge>
+      <edge id="90" source="aif.ru" target="mk.ru"></edge>
+      <edge id="91" source="aif.ru" target="kp.ru"></edge>
+      <edge id="92" source="ng.ru" target="kommersant.ru"></edge>
+      <edge id="93" source="ng.ru" target="novayagazeta.ru"></edge>
+      <edge id="94" source="ng.ru" target="svpressa.ru"></edge>
+      <edge id="96" source="ng.ru" target="rosbalt.ru"></edge>
+      <edge id="97" source="svpressa.ru" target="spektr.press"></edge>
+      <edge id="98" source="rosbalt.ru" target="echo.msk.ru"></edge>
+      <edge id="99" source="rosbalt.ru" target="novayagazeta.ru"></edge>
+      <edge id="100" source="rosbalt.ru" target="mk.ru"></edge>
+      <edge id="101" source="rosbalt.ru" target="lenta.ru"></edge>
+      <edge id="103" source="vedomosti.ru" target="rbc.ru"></edge>
+      <edge id="104" source="vedomosti.ru" target="kommersant.ru"></edge>
+      <edge id="105" source="vedomosti.ru" target="ria.ru"></edge>
+      <edge id="106" source="vedomosti.ru" target="tass.ru"></edge>
+      <edge id="107" source="vedomosti.ru" target="lenta.ru"></edge>
+      <edge id="108" source="pravda.ru" target="vz.ru"></edge>
+      <edge id="109" source="pravda.ru" target="mk.ru"></edge>
+      <edge id="110" source="pravda.ru" target="russian.rt.com"></edge>
+      <edge id="111" source="pravda.ru" target="lenta.ru"></edge>
+      <edge id="112" source="pravda.ru" target="gazeta.ru"></edge>
+      <edge id="113" source="vz.ru" target="ria.ru"></edge>
+      <edge id="114" source="vz.ru" target="lenta.ru"></edge>
+      <edge id="115" source="vz.ru" target="russian.rt.com"></edge>
+      <edge id="116" source="vz.ru" target="inosmi.ru"></edge>
+      <edge id="117" source="vz.ru" target="mk.ru"></edge>
+      <edge id="118" source="inosmi.ru" target="vz.ru"></edge>
+      <edge id="119" source="inosmi.ru" target="ria.ru"></edge>
+      <edge id="120" source="inosmi.ru" target="russian.rt.com"></edge>
+      <edge id="121" source="inosmi.ru" target="lenta.ru"></edge>
+      <edge id="122" source="inosmi.ru" target="gazeta.ru"></edge>
+      <edge id="127" source="tvrain.ru" target="echo.msk.ru"></edge>
+      <edge id="128" source="tvrain.ru" target="novayagazeta.ru"></edge>
+      <edge id="129" source="tvrain.ru" target="svoboda.org"></edge>
+      <edge id="130" source="tvrain.ru" target="mk.ru"></edge>
+      <edge id="131" source="tvrain.ru" target="rbc.ru"></edge>
+      <edge id="132" source="vesti.ru" target="lenta.ru"></edge>
+      <edge id="133" source="vesti.ru" target="ria.ru"></edge>
+      <edge id="134" source="vesti.ru" target="gazeta.ru"></edge>
+      <edge id="135" source="vesti.ru" target="mk.ru"></edge>
+      <edge id="136" source="vesti.ru" target="rbc.ru"></edge>
+      <edge id="137" source="currenttime.tv" target="svoboda.org"></edge>
+      <edge id="138" source="currenttime.tv" target="novayagazeta.ru"></edge>
+      <edge id="140" source="currenttime.tv" target="meduza.io"></edge>
+      <edge id="142" source="snob.ru" target="novayagazeta.ru"></edge>
+      <edge id="143" source="snob.ru" target="meduza.io"></edge>
+      <edge id="144" source="snob.ru" target="echo.msk.ru"></edge>
+      <edge id="146" source="snob.ru" target="svoboda.org"></edge>
+      <edge id="147" source="republic.ru" target="meduza.io"></edge>
+      <edge id="148" source="republic.ru" target="novayagazeta.ru"></edge>
+      <edge id="149" source="republic.ru" target="graniru.org"></edge>
+      <edge id="150" source="republic.ru" target="rbc.ru"></edge>
+      <edge id="151" source="republic.ru" target="ehorussia.com"></edge>
+      <edge id="152" source="ehorussia.com" target="kasparov.ru"></edge>
+      <edge id="153" source="ehorussia.com" target="graniru.org"></edge>
+      <edge id="154" source="ehorussia.com" target="ovayagazeta.ru"></edge>
+      <edge id="155" source="ehorussia.com" target="rusmonitor.com"></edge>
+      <edge id="156" source="rusmonitor.com" target="kasparov.ru"></edge>
+      <edge id="157" source="rusmonitor.com" target="ehorussia.com"></edge>
+      <edge id="158" source="rusmonitor.com" target="theins.ru"></edge>
+      <edge id="159" source="rusmonitor.com" target="obozrevatel.com"></edge>
+    </edges>
+  </graph>
+</gexf>
