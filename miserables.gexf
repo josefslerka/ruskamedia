@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
-  <meta lastmodifieddate="2022-02-14">
+  <meta lastmodifieddate="2022-02-15">
     <creator>Gephi 0.9</creator>
     <description></description>
   </meta>
@@ -8,15 +8,6 @@
     <attributes class="node" mode="static">
       <attribute id="modularity_class" title="Modularity Class" type="integer">
         <default>0</default>
-      </attribute>
-      <attribute id="weighted indegree" title="Weighted In-Degree" type="double">
-        <default>0.0</default>
-      </attribute>
-      <attribute id="weighted outdegree" title="Weighted Out-Degree" type="double">
-        <default>0.0</default>
-      </attribute>
-      <attribute id="weighted degree" title="Weighted Degree" type="double">
-        <default>0.0</default>
       </attribute>
       <attribute id="eccentricity" title="Eccentricity" type="double">
         <default>0.0</default>
@@ -35,798 +26,675 @@
       <node id="zona.media" label="zona.media">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="3.0"></attvalue>
-          <attvalue for="weighted degree" value="3.0"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.375"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.46944444444444433"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3829787234042553"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.49722222222222207"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-197.02734" y="298.7274"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:position x="-175.23555" y="139.50911"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="meduza.io" label="meduza.io">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="7.0"></attvalue>
-          <attvalue for="weighted outdegree" value="3.0"></attvalue>
-          <attvalue for="weighted degree" value="10.0"></attvalue>
           <attvalue for="eccentricity" value="4.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.40540540540540543"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.4999999999999999"></attvalue>
-          <attvalue for="betweenesscentrality" value="24.23333333333333"></attvalue>
+          <attvalue for="closnesscentrality" value="0.38461538461538464"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.45555555555555544"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.2333333333333325"></attvalue>
         </attvalues>
-        <viz:size value="17.777779"></viz:size>
-        <viz:position x="246.81586" y="189.05681"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="11.299965"></viz:size>
+        <viz:position x="-17.27569" y="194.32654"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="novayagazeta.ru" label="novayagazeta.ru">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="15.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="19.0"></attvalue>
           <attvalue for="eccentricity" value="4.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.4838709677419355"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.5833333333333334"></attvalue>
-          <attvalue for="betweenesscentrality" value="94.2333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="95.89999999999998"></attvalue>
         </attvalues>
-        <viz:size value="26.666666"></viz:size>
-        <viz:position x="-209.62328" y="72.985115"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="275.9663" y="58.465164"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
-      <node id="theins.ru" label="theins.ru">
+      <node id="theins.ru" label="theins.ru&lt;">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="2.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="6.0"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.38636363636363635"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.5068627450980391"></attvalue>
-          <attvalue for="betweenesscentrality" value="13.65"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.1"></attvalue>
         </attvalues>
-        <viz:size value="12.222222"></viz:size>
-        <viz:position x="73.30124" y="244.11938"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="12.523462"></viz:size>
+        <viz:position x="-60.27902" y="325.16074"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="bbc.com" label="bbc.com">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+          <attvalue for="eccentricity" value="0.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.0"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-240.53212" y="-58.044342"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
       </node>
       <node id="svoboda.org" label="svoboda.org">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="10.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="15.0"></attvalue>
           <attvalue for="eccentricity" value="4.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.42857142857142855"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.5444444444444443"></attvalue>
-          <attvalue for="betweenesscentrality" value="32.96666666666667"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4411764705882353"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5777777777777777"></attvalue>
+          <attvalue for="betweenesscentrality" value="41.166666666666664"></attvalue>
         </attvalues>
-        <viz:size value="21.11111"></viz:size>
-        <viz:position x="483.20395" y="127.17234"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="18.585331"></viz:size>
+        <viz:position x="-189.43626" y="59.214382"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="znak.com" label="znak.com">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="0.0"></attvalue>
-          <attvalue for="weighted degree" value="1.0"></attvalue>
           <attvalue for="eccentricity" value="0.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.0"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="-64.682625" y="410.67334"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-355.92667" y="299.67303"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="newtimes.ru" label="newtimes.ru">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="2.0"></attvalue>
-          <attvalue for="weighted degree" value="2.0"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.3269230769230769"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.4107843137254902"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4205882352941176"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="742.0615" y="65.069046"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:position x="-765.7955" y="65.382866"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="snob.ru" label="snob.ru">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="4.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.43243243243243246"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.5416666666666666"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4444444444444444"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5729166666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="7.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="448.92526" y="8.941232"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="11.459854"></viz:size>
+        <viz:position x="-490.89856" y="-2.3520422"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="newtimes.run" label="newtimes.run">
         <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="1.0"></attvalue>
-          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.3404255319148936"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.39270833333333327"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35555555555555557"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4343749999999999"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-459.5631" y="9.5585575"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:position x="-133.88873" y="-2.8916636"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
       </node>
       <node id="echo.msk.ru" label="echo.msk.ru">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="8.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="12.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.5"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.588888888888889"></attvalue>
-          <attvalue for="betweenesscentrality" value="80.38333333333334"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5172413793103449"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6"></attvalue>
+          <attvalue for="betweenesscentrality" value="77.33333333333334"></attvalue>
         </attvalues>
-        <viz:size value="18.88889"></viz:size>
-        <viz:position x="105.42212" y="9.562388"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="26.127913"></viz:size>
+        <viz:position x="549.2111" y="-8.693558"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="rbc.ru" label="rbc.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="9.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="13.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.5625"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.6851851851851851"></attvalue>
-          <attvalue for="betweenesscentrality" value="68.38333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="71.93333333333334"></attvalue>
         </attvalues>
-        <viz:size value="18.88889"></viz:size>
-        <viz:position x="-97.83903" y="-157.51558"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
-      </node>
-      <node id="tjournal.ru" label="tjournal.ru">
-        <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="0.0"></attvalue>
-          <attvalue for="weighted degree" value="1.0"></attvalue>
-          <attvalue for="eccentricity" value="0.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.0"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-        </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="171.72987" y="335.17474"></viz:position>
+        <viz:size value="25.001738"></viz:size>
+        <viz:position x="253.88577" y="-58.720387"></viz:position>
         <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="kasparov.ru" label="kasparov.ru">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="4.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="9.0"></attvalue>
           <attvalue for="eccentricity" value="4.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.42592592592592593"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.5253623188405798"></attvalue>
-          <attvalue for="betweenesscentrality" value="31.8"></attvalue>
+          <attvalue for="closnesscentrality" value="0.43137254901960786"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5340909090909092"></attvalue>
+          <attvalue for="betweenesscentrality" value="24.466666666666665"></attvalue>
         </attvalues>
-        <viz:size value="14.444445"></viz:size>
-        <viz:position x="-259.3217" y="196.1107"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="15.102537"></viz:size>
+        <viz:position x="263.92877" y="260.40506"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="graniru.org" label="graniru.org">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="4.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="9.0"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.39655172413793105"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.5050724637681161"></attvalue>
-          <attvalue for="betweenesscentrality" value="16.383333333333333"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4074074074074074"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5204545454545456"></attvalue>
+          <attvalue for="betweenesscentrality" value="12.0"></attvalue>
         </attvalues>
-        <viz:size value="14.444445"></viz:size>
-        <viz:position x="-763.91003" y="71.09597"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="12.502607"></viz:size>
+        <viz:position x="217.16068" y="129.4693"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="ehorussia.com" label="ehorussia.com">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="3.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="7.0"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.3484848484848485"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.4521739130434782"></attvalue>
-          <attvalue for="betweenesscentrality" value="18.5"></attvalue>
+          <attvalue for="closnesscentrality" value="0.38596491228070173"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4825757575757575"></attvalue>
+          <attvalue for="betweenesscentrality" value="15.1"></attvalue>
         </attvalues>
-        <viz:size value="13.333334"></viz:size>
-        <viz:position x="-429.27234" y="135.19876"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="13.149114"></viz:size>
+        <viz:position x="478.81805" y="323.29858"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="ej.ru" label="ej.ru">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="3.0"></attvalue>
-          <attvalue for="weighted degree" value="4.0"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.3484848484848485"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.4304347826086956"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3492063492063492"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.43484848484848476"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="7.3061886" y="141.53226"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="475.12732" y="192.04684"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="golosameriki.com" label="golosameriki.com">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="0.0"></attvalue>
-          <attvalue for="weighted degree" value="1.0"></attvalue>
           <attvalue for="eccentricity" value="0.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.0"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="500.03894" y="262.76282"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-481.18808" y="238.67421"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="mk.ru" label="mk.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="10.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="14.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.5625"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.6851851851851852"></attvalue>
-          <attvalue for="betweenesscentrality" value="47.1"></attvalue>
+          <attvalue for="betweenesscentrality" value="45.95"></attvalue>
         </attvalues>
-        <viz:size value="20.0"></viz:size>
-        <viz:position x="386.7265" y="-102.826065"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="19.5829"></viz:size>
+        <viz:position x="-315.9071" y="-228.13925"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="lenta.ru" label="lenta.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="19.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="23.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7037037037037037"></attvalue>
-          <attvalue for="betweenesscentrality" value="60.483333333333334"></attvalue>
+          <attvalue for="betweenesscentrality" value="58.66666666666667"></attvalue>
         </attvalues>
-        <viz:size value="30.0"></viz:size>
-        <viz:position x="60.79001" y="-213.40358"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="22.234966"></viz:size>
+        <viz:position x="61.496696" y="-224.80284"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="ria.ru" label="ria.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="16.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="20.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7037037037037037"></attvalue>
-          <attvalue for="betweenesscentrality" value="49.11666666666667"></attvalue>
+          <attvalue for="betweenesscentrality" value="49.449999999999996"></attvalue>
         </attvalues>
-        <viz:size value="26.666666"></viz:size>
-        <viz:position x="265.1341" y="-243.65662"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="20.312824"></viz:size>
+        <viz:position x="249.22406" y="-282.08646"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="gazeta.ru" label="gazeta.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="13.0"></attvalue>
-          <attvalue for="weighted outdegree" value="8.0"></attvalue>
-          <attvalue for="weighted degree" value="21.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7037037037037037"></attvalue>
           <attvalue for="betweenesscentrality" value="24.65"></attvalue>
         </attvalues>
-        <viz:size value="24.444445"></viz:size>
-        <viz:position x="586.829" y="-252.23535"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="15.140772"></viz:size>
+        <viz:position x="327.4014" y="-179.38435"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="tass.ru" label="tass.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="5.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="10.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6428571428571429"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7592592592592592"></attvalue>
-          <attvalue for="betweenesscentrality" value="6.583333333333333"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.916666666666667"></attvalue>
         </attvalues>
-        <viz:size value="15.555555"></viz:size>
-        <viz:position x="230.7516" y="-366.37134"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="11.442474"></viz:size>
+        <viz:position x="588.26044" y="-195.85443"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="kp.ru" label="kp.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="2.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="6.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.5625"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.6851851851851851"></attvalue>
           <attvalue for="betweenesscentrality" value="0.25"></attvalue>
         </attvalues>
-        <viz:size value="12.222222"></viz:size>
-        <viz:position x="539.6624" y="-163.78008"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="10.052137"></viz:size>
+        <viz:position x="-258.0723" y="-326.02805"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="russian.rt.com" label="russian.rt.com">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="7.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="12.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6428571428571429"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7592592592592592"></attvalue>
           <attvalue for="betweenesscentrality" value="40.93333333333334"></attvalue>
         </attvalues>
-        <viz:size value="17.777779"></viz:size>
-        <viz:position x="-34.993626" y="-421.06525"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="18.53667"></viz:size>
+        <viz:position x="491.09464" y="-373.93787"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="lentainform.com" label="lentainform.com">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="0.0"></attvalue>
-          <attvalue for="weighted degree" value="1.0"></attvalue>
           <attvalue for="eccentricity" value="0.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.0"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="344.53958" y="-475.93924"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="277.78946" y="-459.64062"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="iz.ru" label="iz.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="2.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="7.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6428571428571429"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7592592592592592"></attvalue>
           <attvalue for="betweenesscentrality" value="0.25"></attvalue>
         </attvalues>
-        <viz:size value="12.222222"></viz:size>
-        <viz:position x="390.79636" y="-420.0928"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="10.052137"></viz:size>
+        <viz:position x="422.7069" y="-319.05286"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="kommersant.ru" label="kommersant.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="2.0"></attvalue>
-          <attvalue for="weighted outdegree" value="3.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.5"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.5999999999999999"></attvalue>
           <attvalue for="betweenesscentrality" value="5.433333333333334"></attvalue>
         </attvalues>
-        <viz:size value="12.222222"></viz:size>
-        <viz:position x="-433.01434" y="-186.71571"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="11.133124"></viz:size>
+        <viz:position x="-175.93126" y="-168.96135"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="rg.ru" label="rg.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.625"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7333333333333333"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="358.38928" y="-308.18555"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:position x="406.94937" y="-263.52112"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="aif.ru" label="aif.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="4.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.5555555555555556"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.6666666666666666"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="377.75787" y="-186.65521"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:position x="-97.063354" y="-280.54654"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="ng.ru" label="ng.ru">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="4.0"></attvalue>
           <attvalue for="eccentricity" value="4.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.45454545454545453"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.5375"></attvalue>
+          <attvalue for="closnesscentrality" value="0.47619047619047616"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5708333333333332"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-26.202585" y="-101.964935"></viz:position>
-        <viz:color r="154" g="150" b="229"></viz:color>
+        <viz:position x="78.53194" y="-57.754932"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
       </node>
       <node id="svpressa.ru" label="svpressa.ru">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="1.0"></attvalue>
-          <attvalue for="weighted degree" value="2.0"></attvalue>
           <attvalue for="eccentricity" value="1.0"></attvalue>
           <attvalue for="closnesscentrality" value="1.0"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="1.0"></attvalue>
           <attvalue for="betweenesscentrality" value="1.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="-280.8608" y="-47.050175"></viz:position>
-        <viz:color r="154" g="150" b="229"></viz:color>
+        <viz:size value="10.20855"></viz:size>
+        <viz:position x="-552.87823" y="-113.21988"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
       </node>
       <node id="rosbalt.ru" label="rosbalt.ru">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.48484848484848486"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.5729166666666667"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5161290322580645"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6145833333333334"></attvalue>
           <attvalue for="betweenesscentrality" value="3.6666666666666665"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="208.41437" y="-46.47773"></viz:position>
-        <viz:color r="154" g="150" b="229"></viz:color>
+        <viz:size value="10.764686"></viz:size>
+        <viz:position x="-154.63957" y="-113.8708"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
       </node>
       <node id="spektr.press" label="spektr.press">
         <attvalues>
           <attvalue for="modularity_class" value="2"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="0.0"></attvalue>
-          <attvalue for="weighted degree" value="1.0"></attvalue>
           <attvalue for="eccentricity" value="0.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.0"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="-503.91183" y="-122.72539"></viz:position>
-        <viz:color r="154" g="150" b="229"></viz:color>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-620.9716" y="-176.23778"></viz:position>
+        <viz:color r="40" g="179" b="106"></viz:color>
       </node>
       <node id="vedomosti.ru" label="vedomosti.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="4.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.5238095238095238"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.6742424242424242"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-280.33322" y="-242.40253"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:position x="685.7382" y="-137.7332"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="pravda.ru" label="pravda.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.6944444444444443"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="50.455376" y="-305.6257"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:position x="13.802825" y="-342.06177"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="vz.ru" label="vz.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="2.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="7.0"></attvalue>
           <attvalue for="eccentricity" value="2.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6470588235294118"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7272727272727273"></attvalue>
           <attvalue for="betweenesscentrality" value="2.4"></attvalue>
         </attvalues>
-        <viz:size value="12.222222"></viz:size>
-        <viz:position x="-139.60085" y="-360.57217"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="10.500522"></viz:size>
+        <viz:position x="-170.19968" y="-396.9902"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="inosmi.ru" label="inosmi.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="6.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.6111111111111112"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.712121212121212"></attvalue>
           <attvalue for="betweenesscentrality" value="0.2"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="-368.34467" y="-361.7416"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:size value="10.04171"></viz:size>
+        <viz:position x="86.4437" y="-403.32767"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="tvrain.ru" label="tvrain.ru">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="4.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.5"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.609375"></attvalue>
+          <attvalue for="closnesscentrality" value="0.5161290322580645"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.6197916666666667"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="571.3631" y="-46.702858"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:position x="483.45877" y="-82.42048"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="vesti.ru" label="vesti.ru">
         <attvalues>
           <attvalue for="modularity_class" value="1"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="3.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.625"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.7333333333333333"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="177.0417" y="-157.89981"></viz:position>
-        <viz:color r="40" g="179" b="106"></viz:color>
+        <viz:position x="190.51097" y="-116.36888"></viz:position>
+        <viz:color r="249" g="119" b="67"></viz:color>
       </node>
       <node id="currenttime.tv" label="currenttime.tv">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="3.0"></attvalue>
-          <attvalue for="weighted degree" value="3.0"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.37209302325581395"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.4760416666666666"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3953488372093023"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.5362745098039214"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="277.4929" y="66.11449"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:position x="-583.7121" y="121.93181"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
-      <node id="republic.ru" label="republic.ru">
+      <node id="dw.com" label="dw.com">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="0.0"></attvalue>
-          <attvalue for="weighted outdegree" value="5.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
-          <attvalue for="eccentricity" value="4.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.4444444444444444"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.5381944444444445"></attvalue>
-          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
-        </attvalues>
-        <viz:size value="10.0"></viz:size>
-        <viz:position x="-749.4321" y="-55.42717"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
-      </node>
-      <node id="ovayagazeta.ru" label="ovayagazeta.ru">
-        <attvalues>
-          <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="0.0"></attvalue>
-          <attvalue for="weighted degree" value="1.0"></attvalue>
           <attvalue for="eccentricity" value="0.0"></attvalue>
           <attvalue for="closnesscentrality" value="0.0"></attvalue>
           <attvalue for="harmonicclosnesscentrality" value="0.0"></attvalue>
           <attvalue for="betweenesscentrality" value="0.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="-698.4835" y="236.8798"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-874.8297" y="176.85263"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
+      </node>
+      <node id="republic.ru" label="republic.ru">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+          <attvalue for="eccentricity" value="4.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4339622641509434"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.532608695652174"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="711.00354" y="123.41948"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
       <node id="rusmonitor.com" label="rusmonitor.com">
         <attvalues>
           <attvalue for="modularity_class" value="0"></attvalue>
-          <attvalue for="weighted indegree" value="1.0"></attvalue>
-          <attvalue for="weighted outdegree" value="4.0"></attvalue>
-          <attvalue for="weighted degree" value="5.0"></attvalue>
           <attvalue for="eccentricity" value="5.0"></attvalue>
-          <attvalue for="closnesscentrality" value="0.35384615384615387"></attvalue>
-          <attvalue for="harmonicclosnesscentrality" value="0.4413043478260869"></attvalue>
-          <attvalue for="betweenesscentrality" value="10.4"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3492063492063492"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.43863636363636355"></attvalue>
+          <attvalue for="betweenesscentrality" value="10.0"></attvalue>
         </attvalues>
-        <viz:size value="11.111111"></viz:size>
-        <viz:position x="-315.60843" y="354.02972"></viz:position>
-        <viz:color r="249" g="119" b="67"></viz:color>
+        <viz:size value="12.0855055"></viz:size>
+        <viz:position x="-10.740313" y="380.79248"></viz:position>
+        <viz:color r="154" g="150" b="229"></viz:color>
       </node>
     </nodes>
     <edges>
       <edge id="0" source="zona.media" target="meduza.io"></edge>
       <edge id="1" source="zona.media" target="novayagazeta.ru"></edge>
       <edge id="2" source="zona.media" target="theins.ru"></edge>
+      <edge id="3" source="zona.media" target="bbc.com"></edge>
       <edge id="4" source="theins.ru" target="novayagazeta.ru"></edge>
       <edge id="5" source="theins.ru" target="meduza.io"></edge>
       <edge id="6" source="theins.ru" target="svoboda.org"></edge>
       <edge id="7" source="theins.ru" target="znak.com"></edge>
-      <edge id="8" source="svoboda.org" target="svoboda.org"></edge>
-      <edge id="9" source="newtimes.ru" target="svoboda.org"></edge>
-      <edge id="10" source="newtimes.ru" target="snob.ru"></edge>
-      <edge id="11" source="newtimes.run" target="novayagazeta.ru"></edge>
+      <edge id="8" source="newtimes.ru" target="svoboda.org"></edge>
+      <edge id="9" source="newtimes.ru" target="snob.ru"></edge>
+      <edge id="10" source="newtimes.run" target="novayagazeta.ru"></edge>
+      <edge id="11" source="newtimes.run" target="bbc.com"></edge>
       <edge id="12" source="novayagazeta.ru" target="echo.msk.ru"></edge>
       <edge id="13" source="novayagazeta.ru" target="meduza.io"></edge>
       <edge id="14" source="novayagazeta.ru" target="svoboda.org"></edge>
       <edge id="15" source="novayagazeta.ru" target="rbc.ru"></edge>
       <edge id="16" source="meduza.io" target="novayagazeta.ru"></edge>
       <edge id="17" source="meduza.io" target="echo.msk.ru"></edge>
-      <edge id="18" source="meduza.io" target="tjournal.ru"></edge>
-      <edge id="19" source="kasparov.ru" target="echo.msk.ru"></edge>
-      <edge id="20" source="kasparov.ru" target="svoboda.org"></edge>
-      <edge id="21" source="kasparov.ru" target="novayagazeta.ru"></edge>
-      <edge id="22" source="kasparov.ru" target="graniru.org"></edge>
-      <edge id="23" source="kasparov.ru" target="ehorussia.com"></edge>
-      <edge id="24" source="graniru.org" target="novayagazeta.ru"></edge>
-      <edge id="25" source="graniru.org" target="kasparov.ru"></edge>
-      <edge id="26" source="graniru.org" target="ej.ru"></edge>
-      <edge id="27" source="graniru.org" target="echo.msk.ru"></edge>
-      <edge id="28" source="graniru.org" target="svoboda.org"></edge>
-      <edge id="29" source="ej.ru" target="graniru.org"></edge>
-      <edge id="30" source="ej.ru" target="kasparov.ru"></edge>
-      <edge id="31" source="ej.ru" target="novayagazeta.ru"></edge>
-      <edge id="32" source="svoboda.org" target="echo.msk.ru"></edge>
-      <edge id="33" source="svoboda.org" target="novayagazeta.ru"></edge>
-      <edge id="35" source="svoboda.org" target="meduza.io"></edge>
-      <edge id="36" source="svoboda.org" target="golosameriki.com"></edge>
-      <edge id="37" source="echo.msk.ru" target="novayagazeta.ru"></edge>
-      <edge id="38" source="echo.msk.ru" target="svoboda.org"></edge>
-      <edge id="39" source="echo.msk.ru" target="mk.ru"></edge>
-      <edge id="40" source="echo.msk.ru" target="lenta.ru"></edge>
-      <edge id="41" source="rbc.ru" target="lenta.ru"></edge>
-      <edge id="42" source="rbc.ru" target="ria.ru"></edge>
-      <edge id="43" source="rbc.ru" target="gazeta.ru"></edge>
-      <edge id="44" source="rbc.ru" target="tass.ru"></edge>
-      <edge id="45" source="mk.ru" target="ria.ru"></edge>
-      <edge id="46" source="mk.ru" target="lenta.ru"></edge>
-      <edge id="47" source="mk.ru" target="gazeta.ru"></edge>
-      <edge id="48" source="mk.ru" target="kp.ru"></edge>
-      <edge id="49" source="lenta.ru" target="ria.ru"></edge>
-      <edge id="50" source="lenta.ru" target="gazeta.ru"></edge>
-      <edge id="51" source="lenta.ru" target="rbc.ru"></edge>
-      <edge id="52" source="lenta.ru" target="russian.rt.com"></edge>
-      <edge id="53" source="ria.ru" target="lenta.ru"></edge>
-      <edge id="54" source="ria.ru" target="lentainform.com"></edge>
-      <edge id="55" source="ria.ru" target="russian.rt.com"></edge>
-      <edge id="56" source="ria.ru" target="gazeta.ru"></edge>
-      <edge id="57" source="gazeta.ru" target="lenta.ru" weight="2.0"></edge>
-      <edge id="58" source="gazeta.ru" target="ria.ru" weight="2.0"></edge>
-      <edge id="59" source="gazeta.ru" target="mk.ru" weight="2.0"></edge>
-      <edge id="60" source="gazeta.ru" target="rbc.ru" weight="2.0"></edge>
-      <edge id="61" source="kp.ru" target="ria.ru"></edge>
-      <edge id="62" source="kp.ru" target="mk.ru"></edge>
-      <edge id="63" source="kp.ru" target="lenta.ru"></edge>
-      <edge id="64" source="kp.ru" target="gazeta.ru"></edge>
-      <edge id="65" source="russian.rt.com" target="ria.ru"></edge>
-      <edge id="66" source="russian.rt.com" target="lenta.ru"></edge>
-      <edge id="67" source="russian.rt.com" target="iz.ru"></edge>
-      <edge id="68" source="russian.rt.com" target="tass.ru"></edge>
-      <edge id="69" source="russian.rt.com" target="gazeta.ru"></edge>
-      <edge id="70" source="tass.ru" target="ria.ru"></edge>
-      <edge id="71" source="tass.ru" target="lenta.ru"></edge>
-      <edge id="72" source="tass.ru" target="rbc.ru"></edge>
-      <edge id="73" source="tass.ru" target="gazeta.ru"></edge>
-      <edge id="74" source="tass.ru" target="russian.rt.com"></edge>
-      <edge id="75" source="iz.ru" target="ria.ru"></edge>
-      <edge id="76" source="iz.ru" target="lenta.ru"></edge>
-      <edge id="77" source="iz.ru" target="russian.rt.com"></edge>
-      <edge id="78" source="iz.ru" target="gazeta.ru"></edge>
-      <edge id="79" source="iz.ru" target="tass.ru"></edge>
-      <edge id="80" source="kommersant.ru" target="ria.ru"></edge>
-      <edge id="81" source="kommersant.ru" target="lenta.ru"></edge>
-      <edge id="82" source="kommersant.ru" target="gazeta.ru"></edge>
-      <edge id="83" source="rg.ru" target="ria.ru"></edge>
-      <edge id="84" source="rg.ru" target="lenta.ru"></edge>
-      <edge id="85" source="rg.ru" target="iz.ru"></edge>
-      <edge id="86" source="rg.ru" target="tass.ru"></edge>
-      <edge id="87" source="rg.ru" target="gazeta.ru"></edge>
-      <edge id="88" source="aif.ru" target="ria.ru"></edge>
-      <edge id="89" source="aif.ru" target="lenta.ru"></edge>
-      <edge id="90" source="aif.ru" target="mk.ru"></edge>
-      <edge id="91" source="aif.ru" target="kp.ru"></edge>
-      <edge id="92" source="ng.ru" target="kommersant.ru"></edge>
-      <edge id="93" source="ng.ru" target="novayagazeta.ru"></edge>
-      <edge id="94" source="ng.ru" target="svpressa.ru"></edge>
-      <edge id="96" source="ng.ru" target="rosbalt.ru"></edge>
-      <edge id="97" source="svpressa.ru" target="spektr.press"></edge>
-      <edge id="98" source="rosbalt.ru" target="echo.msk.ru"></edge>
-      <edge id="99" source="rosbalt.ru" target="novayagazeta.ru"></edge>
-      <edge id="100" source="rosbalt.ru" target="mk.ru"></edge>
-      <edge id="101" source="rosbalt.ru" target="lenta.ru"></edge>
-      <edge id="103" source="vedomosti.ru" target="rbc.ru"></edge>
-      <edge id="104" source="vedomosti.ru" target="kommersant.ru"></edge>
-      <edge id="105" source="vedomosti.ru" target="ria.ru"></edge>
-      <edge id="106" source="vedomosti.ru" target="tass.ru"></edge>
-      <edge id="107" source="vedomosti.ru" target="lenta.ru"></edge>
-      <edge id="108" source="pravda.ru" target="vz.ru"></edge>
-      <edge id="109" source="pravda.ru" target="mk.ru"></edge>
-      <edge id="110" source="pravda.ru" target="russian.rt.com"></edge>
-      <edge id="111" source="pravda.ru" target="lenta.ru"></edge>
-      <edge id="112" source="pravda.ru" target="gazeta.ru"></edge>
-      <edge id="113" source="vz.ru" target="ria.ru"></edge>
-      <edge id="114" source="vz.ru" target="lenta.ru"></edge>
-      <edge id="115" source="vz.ru" target="russian.rt.com"></edge>
-      <edge id="116" source="vz.ru" target="inosmi.ru"></edge>
-      <edge id="117" source="vz.ru" target="mk.ru"></edge>
-      <edge id="118" source="inosmi.ru" target="vz.ru"></edge>
-      <edge id="119" source="inosmi.ru" target="ria.ru"></edge>
-      <edge id="120" source="inosmi.ru" target="russian.rt.com"></edge>
-      <edge id="121" source="inosmi.ru" target="lenta.ru"></edge>
-      <edge id="122" source="inosmi.ru" target="gazeta.ru"></edge>
-      <edge id="127" source="tvrain.ru" target="echo.msk.ru"></edge>
-      <edge id="128" source="tvrain.ru" target="novayagazeta.ru"></edge>
-      <edge id="129" source="tvrain.ru" target="svoboda.org"></edge>
-      <edge id="130" source="tvrain.ru" target="mk.ru"></edge>
-      <edge id="131" source="tvrain.ru" target="rbc.ru"></edge>
-      <edge id="132" source="vesti.ru" target="lenta.ru"></edge>
-      <edge id="133" source="vesti.ru" target="ria.ru"></edge>
-      <edge id="134" source="vesti.ru" target="gazeta.ru"></edge>
-      <edge id="135" source="vesti.ru" target="mk.ru"></edge>
-      <edge id="136" source="vesti.ru" target="rbc.ru"></edge>
-      <edge id="137" source="currenttime.tv" target="svoboda.org"></edge>
-      <edge id="138" source="currenttime.tv" target="novayagazeta.ru"></edge>
-      <edge id="140" source="currenttime.tv" target="meduza.io"></edge>
-      <edge id="142" source="snob.ru" target="novayagazeta.ru"></edge>
-      <edge id="143" source="snob.ru" target="meduza.io"></edge>
-      <edge id="144" source="snob.ru" target="echo.msk.ru"></edge>
-      <edge id="146" source="snob.ru" target="svoboda.org"></edge>
-      <edge id="147" source="republic.ru" target="meduza.io"></edge>
-      <edge id="148" source="republic.ru" target="novayagazeta.ru"></edge>
-      <edge id="149" source="republic.ru" target="graniru.org"></edge>
-      <edge id="150" source="republic.ru" target="rbc.ru"></edge>
-      <edge id="151" source="republic.ru" target="ehorussia.com"></edge>
-      <edge id="152" source="ehorussia.com" target="kasparov.ru"></edge>
-      <edge id="153" source="ehorussia.com" target="graniru.org"></edge>
-      <edge id="154" source="ehorussia.com" target="ovayagazeta.ru"></edge>
-      <edge id="155" source="ehorussia.com" target="rusmonitor.com"></edge>
-      <edge id="156" source="rusmonitor.com" target="kasparov.ru"></edge>
-      <edge id="157" source="rusmonitor.com" target="ehorussia.com"></edge>
-      <edge id="158" source="rusmonitor.com" target="theins.ru"></edge>
+      <edge id="18" source="kasparov.ru" target="echo.msk.ru"></edge>
+      <edge id="19" source="kasparov.ru" target="svoboda.org"></edge>
+      <edge id="20" source="kasparov.ru" target="novayagazeta.ru"></edge>
+      <edge id="21" source="kasparov.ru" target="graniru.org"></edge>
+      <edge id="22" source="kasparov.ru" target="ehorussia.com"></edge>
+      <edge id="23" source="graniru.org" target="novayagazeta.ru"></edge>
+      <edge id="24" source="graniru.org" target="kasparov.ru"></edge>
+      <edge id="25" source="graniru.org" target="ej.ru"></edge>
+      <edge id="26" source="graniru.org" target="echo.msk.ru"></edge>
+      <edge id="27" source="graniru.org" target="svoboda.org"></edge>
+      <edge id="28" source="ej.ru" target="graniru.org"></edge>
+      <edge id="29" source="ej.ru" target="kasparov.ru"></edge>
+      <edge id="30" source="ej.ru" target="novayagazeta.ru"></edge>
+      <edge id="31" source="svoboda.org" target="echo.msk.ru"></edge>
+      <edge id="32" source="svoboda.org" target="novayagazeta.ru"></edge>
+      <edge id="33" source="svoboda.org" target="bbc.com"></edge>
+      <edge id="34" source="svoboda.org" target="meduza.io"></edge>
+      <edge id="35" source="svoboda.org" target="golosameriki.com"></edge>
+      <edge id="36" source="echo.msk.ru" target="novayagazeta.ru"></edge>
+      <edge id="37" source="echo.msk.ru" target="svoboda.org"></edge>
+      <edge id="38" source="echo.msk.ru" target="mk.ru"></edge>
+      <edge id="39" source="echo.msk.ru" target="lenta.ru"></edge>
+      <edge id="40" source="rbc.ru" target="lenta.ru"></edge>
+      <edge id="41" source="rbc.ru" target="ria.ru"></edge>
+      <edge id="42" source="rbc.ru" target="gazeta.ru"></edge>
+      <edge id="43" source="rbc.ru" target="tass.ru"></edge>
+      <edge id="44" source="mk.ru" target="ria.ru"></edge>
+      <edge id="45" source="mk.ru" target="lenta.ru"></edge>
+      <edge id="46" source="mk.ru" target="gazeta.ru"></edge>
+      <edge id="47" source="mk.ru" target="kp.ru"></edge>
+      <edge id="48" source="lenta.ru" target="ria.ru"></edge>
+      <edge id="49" source="lenta.ru" target="gazeta.ru"></edge>
+      <edge id="50" source="lenta.ru" target="rbc.ru"></edge>
+      <edge id="51" source="lenta.ru" target="russian.rt.com"></edge>
+      <edge id="52" source="ria.ru" target="lenta.ru"></edge>
+      <edge id="53" source="ria.ru" target="lentainform.com"></edge>
+      <edge id="54" source="ria.ru" target="russian.rt.com"></edge>
+      <edge id="55" source="ria.ru" target="gazeta.ru"></edge>
+      <edge id="56" source="gazeta.ru" target="lenta.ru" weight="2.0"></edge>
+      <edge id="57" source="gazeta.ru" target="ria.ru" weight="2.0"></edge>
+      <edge id="58" source="gazeta.ru" target="mk.ru" weight="2.0"></edge>
+      <edge id="59" source="gazeta.ru" target="rbc.ru" weight="2.0"></edge>
+      <edge id="60" source="kp.ru" target="ria.ru"></edge>
+      <edge id="61" source="kp.ru" target="mk.ru"></edge>
+      <edge id="62" source="kp.ru" target="lenta.ru"></edge>
+      <edge id="63" source="kp.ru" target="gazeta.ru"></edge>
+      <edge id="64" source="russian.rt.com" target="ria.ru"></edge>
+      <edge id="65" source="russian.rt.com" target="lenta.ru"></edge>
+      <edge id="66" source="russian.rt.com" target="iz.ru"></edge>
+      <edge id="67" source="russian.rt.com" target="tass.ru"></edge>
+      <edge id="68" source="russian.rt.com" target="gazeta.ru"></edge>
+      <edge id="69" source="tass.ru" target="ria.ru"></edge>
+      <edge id="70" source="tass.ru" target="lenta.ru"></edge>
+      <edge id="71" source="tass.ru" target="rbc.ru"></edge>
+      <edge id="72" source="tass.ru" target="gazeta.ru"></edge>
+      <edge id="73" source="tass.ru" target="russian.rt.com"></edge>
+      <edge id="74" source="iz.ru" target="ria.ru"></edge>
+      <edge id="75" source="iz.ru" target="lenta.ru"></edge>
+      <edge id="76" source="iz.ru" target="russian.rt.com"></edge>
+      <edge id="77" source="iz.ru" target="gazeta.ru"></edge>
+      <edge id="78" source="iz.ru" target="tass.ru"></edge>
+      <edge id="79" source="kommersant.ru" target="ria.ru"></edge>
+      <edge id="80" source="kommersant.ru" target="lenta.ru"></edge>
+      <edge id="81" source="kommersant.ru" target="gazeta.ru"></edge>
+      <edge id="82" source="rg.ru" target="ria.ru"></edge>
+      <edge id="83" source="rg.ru" target="lenta.ru"></edge>
+      <edge id="84" source="rg.ru" target="iz.ru"></edge>
+      <edge id="85" source="rg.ru" target="tass.ru"></edge>
+      <edge id="86" source="rg.ru" target="gazeta.ru"></edge>
+      <edge id="87" source="aif.ru" target="ria.ru"></edge>
+      <edge id="88" source="aif.ru" target="lenta.ru"></edge>
+      <edge id="89" source="aif.ru" target="mk.ru"></edge>
+      <edge id="90" source="aif.ru" target="kp.ru"></edge>
+      <edge id="91" source="ng.ru" target="kommersant.ru"></edge>
+      <edge id="92" source="ng.ru" target="novayagazeta.ru"></edge>
+      <edge id="93" source="ng.ru" target="svpressa.ru"></edge>
+      <edge id="94" source="ng.ru" target="bbc.com"></edge>
+      <edge id="95" source="ng.ru" target="rosbalt.ru"></edge>
+      <edge id="96" source="svpressa.ru" target="spektr.press"></edge>
+      <edge id="97" source="rosbalt.ru" target="echo.msk.ru"></edge>
+      <edge id="98" source="rosbalt.ru" target="novayagazeta.ru"></edge>
+      <edge id="99" source="rosbalt.ru" target="mk.ru"></edge>
+      <edge id="100" source="rosbalt.ru" target="lenta.ru"></edge>
+      <edge id="101" source="rosbalt.ru" target="bbc.com"></edge>
+      <edge id="102" source="vedomosti.ru" target="rbc.ru"></edge>
+      <edge id="103" source="vedomosti.ru" target="kommersant.ru"></edge>
+      <edge id="104" source="vedomosti.ru" target="ria.ru"></edge>
+      <edge id="105" source="vedomosti.ru" target="tass.ru"></edge>
+      <edge id="106" source="vedomosti.ru" target="lenta.ru"></edge>
+      <edge id="107" source="pravda.ru" target="vz.ru"></edge>
+      <edge id="108" source="pravda.ru" target="mk.ru"></edge>
+      <edge id="109" source="pravda.ru" target="russian.rt.com"></edge>
+      <edge id="110" source="pravda.ru" target="lenta.ru"></edge>
+      <edge id="111" source="pravda.ru" target="gazeta.ru"></edge>
+      <edge id="112" source="vz.ru" target="ria.ru"></edge>
+      <edge id="113" source="vz.ru" target="lenta.ru"></edge>
+      <edge id="114" source="vz.ru" target="russian.rt.com"></edge>
+      <edge id="115" source="vz.ru" target="inosmi.ru"></edge>
+      <edge id="116" source="vz.ru" target="mk.ru"></edge>
+      <edge id="117" source="inosmi.ru" target="vz.ru"></edge>
+      <edge id="118" source="inosmi.ru" target="ria.ru"></edge>
+      <edge id="119" source="inosmi.ru" target="russian.rt.com"></edge>
+      <edge id="120" source="inosmi.ru" target="lenta.ru"></edge>
+      <edge id="121" source="inosmi.ru" target="gazeta.ru"></edge>
+      <edge id="126" source="tvrain.ru" target="echo.msk.ru"></edge>
+      <edge id="127" source="tvrain.ru" target="novayagazeta.ru"></edge>
+      <edge id="128" source="tvrain.ru" target="svoboda.org"></edge>
+      <edge id="129" source="tvrain.ru" target="mk.ru"></edge>
+      <edge id="130" source="tvrain.ru" target="rbc.ru"></edge>
+      <edge id="131" source="vesti.ru" target="lenta.ru"></edge>
+      <edge id="132" source="vesti.ru" target="ria.ru"></edge>
+      <edge id="133" source="vesti.ru" target="gazeta.ru"></edge>
+      <edge id="134" source="vesti.ru" target="mk.ru"></edge>
+      <edge id="135" source="vesti.ru" target="rbc.ru"></edge>
+      <edge id="136" source="currenttime.tv" target="svoboda.org"></edge>
+      <edge id="137" source="currenttime.tv" target="novayagazeta.ru"></edge>
+      <edge id="138" source="currenttime.tv" target="bbc.com"></edge>
+      <edge id="139" source="currenttime.tv" target="meduza.io"></edge>
+      <edge id="140" source="currenttime.tv" target="dw.com"></edge>
+      <edge id="141" source="snob.ru" target="novayagazeta.ru"></edge>
+      <edge id="142" source="snob.ru" target="meduza.io"></edge>
+      <edge id="143" source="snob.ru" target="echo.msk.ru"></edge>
+      <edge id="144" source="snob.ru" target="bbc.com"></edge>
+      <edge id="145" source="snob.ru" target="svoboda.org"></edge>
+      <edge id="146" source="republic.ru" target="meduza.io"></edge>
+      <edge id="147" source="republic.ru" target="novayagazeta.ru"></edge>
+      <edge id="148" source="republic.ru" target="graniru.org"></edge>
+      <edge id="149" source="republic.ru" target="rbc.ru"></edge>
+      <edge id="150" source="republic.ru" target="ehorussia.com"></edge>
+      <edge id="151" source="ehorussia.com" target="kasparov.ru"></edge>
+      <edge id="152" source="ehorussia.com" target="graniru.org"></edge>
+      <edge id="153" source="ehorussia.com" target="novayagazeta.ru"></edge>
+      <edge id="154" source="ehorussia.com" target="rusmonitor.com"></edge>
+      <edge id="155" source="rusmonitor.com" target="kasparov.ru"></edge>
+      <edge id="156" source="rusmonitor.com" target="ehorussia.com"></edge>
+      <edge id="157" source="rusmonitor.com" target="theins.ru"></edge>
     </edges>
   </graph>
 </gexf>
